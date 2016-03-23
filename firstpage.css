@@ -1,1 +1,23 @@
 
+  MARQUEE {
+    background-image:url( http://4.bp.blogspot.com/-vUvlnvMef_k/UQwisZwxREI/AAAAAAAAAeU/IgMGhMvCO7c/s1600/black_background_by_density_stock-d4ujex5.jpg);
+    font-size:50px;
+    color:white;
+  }
+  #header {
+    position:absolute;
+background-image:url( http://img14.deviantart.net/339c/i/2010/142/2/9/africa_by_speedyroby.jpg);
+
+       color:white;
+    text-align:center;
+    margin-top: 0px;
+    padding-bottom: 800px;
+    padding-right: 1250px;
+    margin-left: 0px; 
+}
+img.ex2 {
+    position: absolute;
+    left: 100px;
+    top: 150px;
+    }
+  
