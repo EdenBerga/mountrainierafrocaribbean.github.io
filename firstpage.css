@@ -6,13 +6,21 @@
   }
   #header {
     position:absolute;
-background-image:url( http://thumb9.shutterstock.com/display_pic_with_logo/2045459/192586202/stock-vector-color-africa-background-with-map-giraffes-leopard-and-trees-vector-illustration-192586202.jpg);
+background-image:url( http://thumbs.dreamstime.com/z/africa-map-african-typography-made-patchwork-fabric-text-texture-over-black-background-37764998.jpg);
 
        color:white;
     text-align:center;
     margin-top: 0px;
     padding-bottom: 1000px;
     padding-right: 300px;
+    margin-left: 0px; 
+}
+#side {
+    position:absolute;
+       text-align:center;
+    margin-top: 0px;
+    padding-bottom: 1000px;
+    padding-right:0px;
     margin-left: 0px; 
 }
 img.ex2 {
