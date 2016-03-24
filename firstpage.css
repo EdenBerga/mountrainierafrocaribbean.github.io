@@ -20,8 +20,8 @@ background-image:url( http://thumbs.dreamstime.com/z/africa-map-african-typograp
        text-align:center;
     margin-top: 0px;
     padding-bottom: 1000px;
-    padding-right:0px;
-    margin-left: 0px; 
+    padding-left:300px;
+    right:0; 
 }
 img.ex2 {
     position: absolute;
